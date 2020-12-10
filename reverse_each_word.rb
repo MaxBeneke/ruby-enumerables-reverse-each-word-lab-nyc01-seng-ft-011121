@@ -15,3 +15,4 @@ def reverse_each_word_using_collect(string)
     word.reverse
   end
   new_array.join(" ")
+end
