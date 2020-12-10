@@ -8,3 +8,5 @@ def reverse_each_word(string)
   binding.pry
   new_array.join(" ")
 end
+
+binding.pry
