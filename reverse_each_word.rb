@@ -7,6 +7,5 @@ def reverse_each_word(string)
     final_array.push(word.reverse)
   end
   final_array.join(" ")
- puts final_array
 end
 
